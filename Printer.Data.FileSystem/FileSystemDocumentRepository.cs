@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using PrinterLogic.Documents;
 
-namespace Printer.Console
+namespace Printer.Data.FileSystem
 {
     class FileSystemDocumentRepository : IDocumentRepository
     {

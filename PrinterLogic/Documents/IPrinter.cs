@@ -1,6 +1,6 @@
 ﻿namespace PrinterLogic.Documents
 {
-    internal interface IPrinter
+    public interface IPrinter
     {
         void Print(IDocument document);
 
