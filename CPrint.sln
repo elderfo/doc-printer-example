@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPrint.Logic.Tests", "CPrin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPrint.Console", "CPrint.Console\CPrint.Console.csproj", "{9AF1C619-C006-4F2F-B580-82EB62B83B98}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPrint.Printer.Json", "CPrint.Json\CPrint.Printer.Json.csproj", "{71782EBF-87FF-48C9-B942-29E1574EF544}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPrint.Printer.Json", "CPrint.Printer.Json\CPrint.Printer.Json.csproj", "{71782EBF-87FF-48C9-B942-29E1574EF544}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPrint.Data.FileSystem", "CPrint.Data.FileSystem\CPrint.Data.FileSystem.csproj", "{5AA0886C-FA9F-4E9C-BAAC-14E6E4E3806E}"
 EndProject

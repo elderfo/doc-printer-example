@@ -7,8 +7,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CPrint.Data.FileSystem\CPrint.Data.FileSystem.csproj" />
-    <ProjectReference Include="..\CPrint.Json\CPrint.Printer.Json.csproj" />
     <ProjectReference Include="..\CPrint.Logic\CPrint.Logic.csproj" />
+    <ProjectReference Include="..\CPrint.Printer.Json\CPrint.Printer.Json.csproj" />
   </ItemGroup>
 
 </Project>
