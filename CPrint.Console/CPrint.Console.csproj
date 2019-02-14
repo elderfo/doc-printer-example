@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CPrint.Data.FileSystem\CPrint.Data.FileSystem.csproj" />
+    <ProjectReference Include="..\CPrint.Json\CPrint.Printer.Json.csproj" />
+    <ProjectReference Include="..\CPrint.Logic\CPrint.Logic.csproj" />
+  </ItemGroup>
+
+</Project>
